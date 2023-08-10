@@ -5,19 +5,13 @@ This Python script checks a list of wallet addresses against a Google Sheet and 
 
 ## Installation
 
-1.  Clone the repository to your local machine:
-```sh
-   git clone https://github.com/your-username/google-sheets-address-checker.git
-   cd google-sheets-address-checker ```
+1. Clone the repository to your local machine:
    
-1. Create a virtual environment (optional but recommended):
-```sh
-python3 -m venv venv
-source venv/bin/activate```
+2. Create a virtual environment (optional but recommended):
 
 3. Install the required packages:
-```sh
-pip install -r requirements.txt```
+`
+pip install -r requirements.txt`
 
 
 ## Getting Google Service Account
